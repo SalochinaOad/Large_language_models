@@ -1,7 +1,8 @@
 # LangChain Learning Notebooks
 This repository contains a series of Jupyter notebooks designed to teach LangChain concepts step-by-step, from basic prompt handling to advanced functional conversations. Each lesson builds upon the previous one, helping you gain practical, hands-on experience with LangChain’s core features.
 
-Learning Path
+## Learning Path
+
 L1 – Model Prompt Parser
 Learn how to send prompts to models, parse responses, and handle structured outputs.
 
@@ -26,7 +27,7 @@ Practice connecting LangChain with external tools and APIs, including routing re
 L8 – Functional Conversation
 Build multi-step, interactive conversations that combine memory, tools, and function calls for complex tasks.
 
-How to Use
+## How to Use
 Follow the notebooks in sequence for a smooth learning experience.
 
 Run cells step-by-step to understand each concept.
